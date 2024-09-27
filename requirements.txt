@@ -1,0 +1,22 @@
+colormath
+html2text
+ImageHash
+Keras
+matplotlib
+nltk
+numpy
+opencv-python-headless
+pandas
+Pillow
+python-dotenv
+scikit-image
+scikit_learn
+scipy
+shutils
+tensorflow
+pydantic-settings
+Flask
+ultralytics
+roboflow
+
+# jupyter
